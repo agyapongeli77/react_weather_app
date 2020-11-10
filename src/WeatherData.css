@@ -1,0 +1,10 @@
+.WeatherData {
+border-radius : 2%;
+background-color : #16a596;
+color: white;
+position: absolute;
+left:390px;
+right:300px;
+top:150px;
+width: 500px;
+}

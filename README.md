@@ -1,3 +1,23 @@
+# Weather App Project - *A React App*
+
+## Video Walkthrough
+
+<img src="https://github.com/agyapongeli77/react_weather_app/blob/main/src/weather_app_walkthrough.gif" width=950><br>
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Functionality
+
+- [x] User can get the current weather temperature of a city by seraching for it.
+- [x]Data fetched from the Open Weather API by city.
+- [x] Concepts applied include working with API using axios, condition rendering, React Events, etc
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

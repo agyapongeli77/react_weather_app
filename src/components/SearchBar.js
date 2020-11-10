@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import WeatherData from './WeatherData'
-import './SearchBar.css'
-import logo from './search_icon.png'
+import WeatherData from '../components/WeatherData'
+import '../styles/SearchBar.css'
+import logo from '../search_icon.png'
 
 class SearchBar extends Component {
     constructor(props) {

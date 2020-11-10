@@ -8,7 +8,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Functionality
 
-- [x] User can get the current weather temperature of a city by seraching for it.
+- [x] User can get the current weather temperature of a city by searching for it.
 - [x] Data fetched from the Open Weather API by city.
 - [x] Concepts applied include working with API using axios, condition rendering, React Events, React State, React Props etc
 

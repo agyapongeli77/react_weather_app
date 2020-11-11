@@ -1,3 +1,0 @@
-access command to push to remote github through my windows terminal
-
-https://f0cc3125587af59f758d6b9132eeb6bc2149d715:x-oauth-basic@github.com/agyapongeli77/react_weather_app.git

@@ -1,12 +1,11 @@
 .WeatherData {
-border-radius : 2%;
-background-color : #16a596;
-color: white;
-position: absolute;
-left:390px;
-right:300px;
-top:150px;
-width: 500px;
-box-shadow: 10px 10px 5px #aaaaaa;
-
+    border-radius : 2%;
+    background-color : #16a596;
+    color: white;
+    position: absolute;
+    left:480px;
+    right:300px;
+    top:150px;
+    width: 500px;
+    box-shadow: 10px 10px 5px #aaaaaa;    
 }

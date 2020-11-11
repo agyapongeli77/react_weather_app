@@ -1,0 +1,11 @@
+.DailyForecast {
+    border-radius : 2%;
+    background-color : #16a596;
+    color: white;
+    position: absolute;
+    left:480px;
+    right:300px;
+    top:350px;
+    width: 500px;
+    box-shadow: 10px 10px 5px #aaaaaa;    
+}
